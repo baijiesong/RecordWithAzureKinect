@@ -1,5 +1,5 @@
 # RecordWithAzureKinect
-## This Project is used to record the video with audio by AzureKinects and PC based on https://github.com/wangyouOVO/ReConWithAzureKinect
+## This Project is used to record the video with audio by AzureKinects and PC 
 ### 1. Experimental platform
 * Operating system: Windows 11
 * Depth sensor: Azure kinect
@@ -20,3 +20,4 @@
 ### 4. Usage
 * You can have video with audio after launch
   * `python rgbd_recorder.py`
+## Based on https://github.com/wangyouOVO/ReConWithAzureKinect
