@@ -20,5 +20,5 @@
 ### 4. Usage
 * You can have video with audio after launch
   * `python rgbd_recorder.py`
-## 本项目使用深度相机用于采集带有深度信息的视频，同时录制声音
 ## Based on https://github.com/wangyouOVO/ReConWithAzureKinect
+## 本项目使用深度相机用于采集带有深度信息的视频，同时录制声音
