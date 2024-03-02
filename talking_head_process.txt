@@ -1,0 +1,3 @@
+原视频先crop ffmpeg -i output.mp4 -vf crop=360:360:55:80 test.mp4
+然后resize ffmpeg -i test.mp4 -vf scale=450:450 bai.mp4
+然后 fps 28->25  ffmpeg -i bai.mp4 -r 25 -filter:v "setpts=0.892857*PTS" bai_1.mp4
