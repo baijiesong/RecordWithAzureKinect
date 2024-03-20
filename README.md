@@ -8,7 +8,7 @@
 * open3d version: 0.17
 ### 2. Install the sensor driver on Windows 11
 * Folow this https://github.com/microsoft/Azure-Kinect-Sensor-SDK/blob/develop/docs/usage.md
-* If you want to test if it is installed, you can take **k4arecorder.exe** unorder sensor files.
+* If you want to test if it is installed, you can take **k4arecorder.exe** under sensor files.
 ### 3. Configure the project environment with conda
 * Clone the project
   * `git clone https://github.com/baijiesong/RecordWithAzureKinect.git `
